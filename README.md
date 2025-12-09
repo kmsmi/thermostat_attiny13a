@@ -3,5 +3,5 @@
 Собран на Attiny13A, DS18B20, HC-12  
 
 ## Схема
-![Logotype](Scheme.png)
+![Logotype](scheme.png)
 
